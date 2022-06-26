@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toby
 - 👀 I’m interested in ... Web Development, Machine Learning, Business Process Automation
-- 🌱 I’m currently learning ... to connect my WebApps with certain API's to increase their functionalities such as using external payment processors
-- 💞️ I’m looking to collaborate on ... nothing at the moment, too busy with work, studies & personal projects :)
+- 🌱 I’m currently learning ... Angular and Vue
+- 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... -> https://www.linkedin.com/in/tobias-andraschko/
 
 <!---
