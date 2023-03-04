@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toby
-- 👀 I’m interested in ... Web Development, Machine Learning, Business Process Automation
-- 🌱 I’m currently learning ... Next.js, Nuxt.js, Firebase
-- 💞️ I’m looking to collaborate on ... nothing at the moment
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -> https://www.linkedin.com/in/tobias-andraschko/
 
 <!---
